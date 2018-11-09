@@ -1,2 +1,2 @@
-# springboot-pagination
-Lets Implement Pagination in Spring Boot Using Paging and Sorting Repository
+# springboot-jsp-s3
+Lets Implement Upload image into amazon s3 bucket.
